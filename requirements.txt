@@ -1,0 +1,13 @@
+# Python Learning Environment
+# Requirements for data analysis and Jupyter notebooks
+
+jupyter>=1.0.0
+pandas>=1.5.0
+matplotlib>=3.6.0
+numpy>=1.24.0
+seaborn>=0.12.0
+
+# Development tools
+black>=22.0.0      # Code formatting
+flake8>=5.0.0      # Linting
+pytest>=7.0.0      # Testing

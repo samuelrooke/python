@@ -13,3 +13,6 @@ yhteispisteet += 0.9 * pituus
 print(f"Yhteispisteet: {yhteispisteet}")
 
 
+
+
+

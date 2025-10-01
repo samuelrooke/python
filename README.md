@@ -1,28 +1,19 @@
 # Python Programming Exercises
 
-A collection of Python programming exercises and projects from coursework, demonstrating fundamental programming concepts and data analysis techniques.
+Python coursework exercises and projects.
 
 ## Structure
-
-- **TT** = Tuntitehtävä (Class Exercise)
-- **KT** = Kotitehtävä (Homework Assignment)
+- **TT** = Class Exercise
+- **KT** = Homework Assignment
 
 ## Contents
+- `/1/` - Basic Python fundamentals
+- `/2/` - Control flow and logic
+- `/3/` - Functions and modules
+- `/4/` - Advanced applications
+- `Analysoinnin-Perusteet-HAMK/` - Data analysis projects
 
-### Core Programming (`/1/` - )
-Progressive exercises covering:
-- Basic input/output and variables
-- Control structures and loops
-- Functions and modular programming
-- Advanced iteration patterns
-
-### Data Analysis Projects (`Analysoinnin-Perusteet-HAMK/`)
-Advanced projects using Jupyter notebooks, Pandas, and Matplotlib for data manipulation and visualization.
-
-Related collaborative work: [Analysis Group Project](https://github.com/jomi112233/Analysointi-Ryhmatyo)
-
-## Technologies
-- Python 3.x
-- Jupyter Notebooks
-- Pandas
-- Matplotlib
+## Setup
+```bash
+pip install -r requirements.txt
+```
