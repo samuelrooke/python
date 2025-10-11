@@ -3,6 +3,6 @@
 Complex applications and algorithms.
 
 ## Files
-- `KT4,1.py` - Ski jumping calculator
-- `KT4,2.py` - Advanced calculations
+- `KT4,1.py` - Ski jumping calculator with while loop
+- `KT4,2.py` - Ski jumping calculator with for loop
 - `TT7.py` - Loop exercises
