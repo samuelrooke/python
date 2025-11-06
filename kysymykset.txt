@@ -1,0 +1,59 @@
+Minkä maan pääkaupunki on Pariisi?
+Ranska
+Saksa
+Ruotsi
+a
+
+Mikä nähtävyys sijaitsee Tampereella?
+Big Ben
+Näsinneula
+Kauppakeskus Willa
+b
+
+Mikä joki virtaa Tampereen keskustan läpi?
+Tammerkoski
+Aura
+Vantaanjoki
+a
+
+Mikä on Tampereen tunnettu tehdasalue?
+Finlayson
+Arabia
+Fiskars
+a
+
+Mikä on Tampereen tunnettu ostoskatu?
+Esplanadi
+Hämeenkatu
+Aleksanterinkatu
+b
+
+Missä Tampereen stadion sijaitsee?
+Tammela
+Hakametsä
+Ratina
+c
+
+Missä Kummeli-sketsi "Tonnin seteli" on kuvattu?
+Pyynikin näkötornin kahvila
+Hämeen linna
+Cafe Pispala
+a
+
+Mikä on Tampereen suosittu huvipuisto?
+Linnanmäki
+Särkänniemi
+PowerPark
+b
+
+Mikä on Tampereen tunnettu museo?
+British Museum
+Louvre
+Vapriikki
+c
+
+Mikä on tampereen lempinimi
+Ampere
+Manse
+Stadi
+b
