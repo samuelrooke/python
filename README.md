@@ -1,4 +1,4 @@
-# Python Coursework — HAMK & TAMK
+# Python Coursework - HAMK & TAMK
 
 Python exercises completed during Business Information Systems studies at HAMK University of Applied Sciences and TAMK Tampere University of Applied Sciences. Covers core Python from syntax basics through object-oriented programming, data analysis, and a text-based game project.
 
